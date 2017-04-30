@@ -23,3 +23,7 @@ sudo pip3 install --upgrade pip
 sudo pip3 install -r python_requirements.txt
 
 sudo apt install jupyter-core
+
+#utilities
+sudo apt-get install htop -y
+sudo apt-get install xclip -y
