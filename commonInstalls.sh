@@ -2,6 +2,7 @@
 # install atom editor
 sudo add-apt-repository ppa:webupd8team/atom -y
 sudo add-apt-repository ppa:vokoscreen-dev/vokoscreen-daily -y
+sudo add-apt-repository ppa:inkscape.dev/stable
 sudo apt-get update -y
 
 sudo apt-get install atom -y
@@ -27,3 +28,5 @@ sudo apt install jupyter-core
 #utilities
 sudo apt-get install htop -y
 sudo apt-get install xclip -y
+sudo apt-get install slack -y
+sudo apt-get install inkscape -y
